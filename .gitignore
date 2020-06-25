@@ -49,12 +49,10 @@ build/
 *.zip
 *.tar.gz
 *.rar
-*.cmd
 *.classpath
 *.settings
 *.project
 *.mvn
-mvnw
 target
 *.DS_Store
 
